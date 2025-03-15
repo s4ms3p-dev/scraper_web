@@ -11,8 +11,8 @@ Este es un **web scraper** en Python que extrae información de una página web 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone https://github.com/s4ms3p-dev/scraper_web.git)
+   cd scraper_web
    ```
 
 2. Instala las dependencias necesarias:
